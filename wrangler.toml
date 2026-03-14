@@ -27,9 +27,9 @@ directory = "site"
 binding = "ASSETS"
 
 [[routes]]
-pattern = "zensical.org/docs/*"
+pattern = "zensical.org/*"
 zone_name = "zensical.org"
 
 [[routes]]
-pattern = "www.zensical.org/docs/*"
+pattern = "www.zensical.org/*"
 zone_name = "zensical.org"

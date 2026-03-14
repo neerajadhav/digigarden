@@ -19,19 +19,20 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Zensical Documentation
-site_url: https://zensical.org/docs/
+site_name: Neeraj's Digital Garden
+site_url: https://zensical.org/
+docs_dir: content
 site_description: >-
-  Write your documentation in Markdown and create a professional static site in
-  minutes – searchable, customizable, in 60+ languages, for all devices
+  The digital garden of Adhav Neeraj Sahebrao – a space for evolving ideas, 
+  technical notes, and personal reflections.
 
 # Repository
 repo_name: zensical/zensical
 repo_url: https://github.com/zensical/zensical
-edit_uri: https://github.com/zensical/docs/edit/master/docs/
+edit_uri: https://github.com/zensical/docs/edit/master/content/
 
 # Copyright
-copyright: "&copy; 2025 Zensical LLC"
+copyright: "&copy; 2026 Adhav Neeraj Sahebrao"
 
 # Configuration
 theme:
@@ -73,8 +74,8 @@ theme:
       toggle:
         icon: lucide/moon-star
         name: Switch to system preference
-  favicon: assets/zensical.png
-  logo: assets/zensical.svg
+  favicon: assets/logo.svg
+  logo: assets/logo.svg
   icon:
     tag:
       default: lucide/hash
@@ -167,70 +168,53 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Home: https://zensical.org
-  - Get started:
-    - Get started: get-started.md
-    - Create your site: create-your-site.md
-    - Publish your site: publish-your-site.md
-    - Customization: customization.md
-    - How to upgrade: upgrade.md
-    - Browser support: browser-support.md
-    - License: license.md
-  - Usage:
-    - Command line: usage/cli.md
-    - New project: usage/new.md
-    - Preview: usage/preview.md
-    - Build: usage/build.md
-  - Setup:
-    - Basics: setup/basics.md
-    - Colors: setup/colors.md
-    - Fonts: setup/fonts.md
-    - Language: setup/language.md
-    - Logo and icons: setup/logo-and-icons.md
-    - Data privacy: setup/data-privacy.md
-    - Navigation: setup/navigation.md
-    - Site search: setup/search.md
-    - Site analytics: setup/analytics.md
-    - Social cards: setup/social-cards.md
-    - Tags: setup/tags.md
-    - Header: setup/header.md
-    - Footer: setup/footer.md
-    - Repository: setup/repository.md
-    - Comment system: setup/comment-system.md
-    - Offline usage: setup/offline.md
-    - Extensions:
-      - setup/extensions/index.md
-      - Markdown: setup/extensions/python-markdown.md
-      - Markdown Extensions: setup/extensions/python-markdown-extensions.md
-      - mkdocstrings: setup/extensions/mkdocstrings.md
-  - Authoring:
-    - Markdown: authoring/markdown.md
-    - Front matter: authoring/frontmatter.md
-    - Admonitions: authoring/admonitions.md
-    - Buttons: authoring/buttons.md
-    - Code blocks: authoring/code-blocks.md
-    - Content tabs: authoring/content-tabs.md
-    - Data tables: authoring/data-tables.md
-    - Diagrams: authoring/diagrams.md
-    - Footnotes: authoring/footnotes.md
-    - Formatting: authoring/formatting.md
-    - Grids: authoring/grids.md
-    - Icons, Emojis: authoring/icons-emojis.md
-    - Images: authoring/images.md
-    - Lists: authoring/lists.md
-    - Math: authoring/math.md
-    - Tooltips: authoring/tooltips.md
-  - Community:
-    - Get involved: community/get-involved.md
-    - How we work: community/how-we-work.md
-    - FAQs: community/faqs.md
-    - Contribute:
-      - community/contribute/index.md
-      - Bug reports: community/contribute/report-a-bug.md
-      - Documentation: community/contribute/report-a-docs-issue.md
-      - Change requests: community/contribute/request-a-change.md
-      - Pull requests: community/contribute/pull-requests.md
-      - Code of conduct: community/contribute/code-of-conduct.md
-    - Guides:
-      - Reproductions: community/guides/create-a-reproduction.md
+  - Home: index.md
+  - Java:
+    - Overview: java/index.md
+    - Algorithms:
+      - Overview: java/algorithms/index.md
+      - Searching:
+        - Overview: java/algorithms/searching/index.md
+        - Linear Search: java/algorithms/searching/01-linear-search.md
+        - Binary Search: java/algorithms/searching/02-binary-search.md
+        - Jump Search: java/algorithms/searching/03-jump-search.md
+        - Interpolation Search: java/algorithms/searching/04-interpolation-search.md
+        - Ternary Search: java/algorithms/searching/05-ternary-search.md
+      - Sorting:
+        - Overview: java/algorithms/sorting/index.md
+        - Bubble Sort: java/algorithms/sorting/01-bubble-sort.md
+        - Selection Sort: java/algorithms/sorting/02-selection-sort.md
+        - Insertion Sort: java/algorithms/sorting/03-insertion-sort.md
+        - Merge Sort: java/algorithms/sorting/04-merge-sort.md
+        - Quick Sort: java/algorithms/sorting/05-quick-sort.md
+        - Heap Sort: java/algorithms/sorting/06-heap-sort.md
+        - Counting Sort: java/algorithms/sorting/07-counting-sort.md
+        - Radix Sort: java/algorithms/sorting/08-radix-sort.md
+        - Bucket Sort: java/algorithms/sorting/09-bucket-sort.md
+        - 0-1-2 Sort: java/algorithms/sorting/10-0-1-2-sort.md
+    - DSA Sheets:
+      - Overview: java/dsa-sheets/index.md
+      - Blind 75:
+        - Overview: java/dsa-sheets/blind-75/index.md
+        - Contains Duplicate: java/dsa-sheets/blind-75/01-contains-duplicate.md
+        - Valid Anagrams: java/dsa-sheets/blind-75/02-valid-anagrams.md
+        - Two Sum: java/dsa-sheets/blind-75/03-two-sum.md
+        - Group Anagrams: java/dsa-sheets/blind-75/04-group-anagrams.md
+        - Top K Frequent Elements: java/dsa-sheets/blind-75/05-top-k-frequent-elements.md
+        - Encode and Decode Strings: java/dsa-sheets/blind-75/06-encode-and-decode-strings.md
+        - Product of Array Except Self: java/dsa-sheets/blind-75/07-product-of-array-except-self.md
+        - Longest Consecutive Sequence: java/dsa-sheets/blind-75/08-longest-consecutive-sequence.md
+        - Valid Palindrome: java/dsa-sheets/blind-75/09-valid-palindrome.md
+        - 3Sum: java/dsa-sheets/blind-75/10-3sum.md
+        - Container With Most Water: java/dsa-sheets/blind-75/11-container-with-most-water.md
+        - Best Time to Buy and Sell Stock: java/dsa-sheets/blind-75/12-best-time-to-buy-and-sell-stock.md
+        - Longest Substring: java/dsa-sheets/blind-75/13-longest-substring-without-repeating-characters.md
+        - Character Replacement: java/dsa-sheets/blind-75/14-longest-repeating-character-replacement.md
+        - Minimum Window Substring: java/dsa-sheets/blind-75/15-minimum-window-substring.md
+        - Valid Parentheses: java/dsa-sheets/blind-75/16-valid-parentheses.md
+        - Min in Rotated Sorted Array: java/dsa-sheets/blind-75/17-find-minimum-in-rotated-sorted-array.md
+        - Search in Rotated Sorted Array: java/dsa-sheets/blind-75/18-search-in-rotated-sorted-array.md
+        - Reverse Linked List: java/dsa-sheets/blind-75/19-reverse-linked-list.md
+        - Merge Two Sorted Lists: java/dsa-sheets/blind-75/20-merge-two-sorted-linked-lists.md
+        - Cycle Detection: java/dsa-sheets/blind-75/21-linked-list-cycle-detection.md
 

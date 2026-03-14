@@ -43,8 +43,8 @@ export default {
       return Response.redirect(url.toString(), 301)
     }
 
-    // Strip docs prefix for asset fetching
-    const pathname = url.pathname.replace(/^\/docs/, '')
+    // Use the pathname directly for asset fetching
+    const pathname = url.pathname
     const res = await env.ASSETS.fetch(`${url.origin}${pathname || "/"}`)
     if (res.status === 404) {
       const notfound = await env.ASSETS.fetch(`${url.origin}/404`, req)
