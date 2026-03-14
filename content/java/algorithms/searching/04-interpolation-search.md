@@ -13,7 +13,7 @@ Think of looking for a name in a phone book. If the name starts with "A", you do
 
 ## Algorithm Steps
 1. The position formula:
-   $$pos = low + \left[ \frac{(target - A[low]) \cdot (high - low)}{A[high] - A[low]} \right]$$
+   $pos = low + \left[ \frac{(target - A[low]) \cdot (high - low)}{A[high] - A[low]} \right]$
 2. In each step:
    - Calculate `pos`.
    - If `A[pos] == target`, return `pos`.
