@@ -146,8 +146,8 @@ markdown_extensions:
   - pymdownx.magiclink:
       normalize_issue_symbols: true
       repo_url_shorthand: true
-      user: zensical
-      repo: zensical
+      user: neerajadhav
+      repo: digigarden
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.snippets
@@ -165,8 +165,6 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
-
-markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
 
