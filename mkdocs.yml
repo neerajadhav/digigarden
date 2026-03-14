@@ -20,16 +20,16 @@
 
 # Project information
 site_name: DigiGarden
-site_url: https://zensical.org/
+site_url: https://digigarden.neerajadhav.in
 docs_dir: content
 site_description: >-
   The digital garden of Adhav Neeraj Sahebrao – a space for evolving ideas, 
   technical notes, and personal reflections.
 
 # Repository
-repo_name: zensical/zensical
-repo_url: https://github.com/zensical/zensical
-edit_uri: https://github.com/zensical/docs/edit/master/content/
+repo_name: neerajadhav/digigarden
+repo_url: https://github.com/neerajadhav/digigarden
+edit_uri: https://github.com/neerajadhav/digigarden/edit/main/content/
 
 # Copyright
 copyright: "&copy; 2026 Adhav Neeraj Sahebrao"
@@ -90,7 +90,7 @@ plugins:
 
 # Additional configuration
 extra:
-  homepage: https://zensical.org
+  homepage: https://neerajadhav.in
   scope: /
   annotate:
     json: [.s2]
@@ -98,18 +98,18 @@ extra:
     new: Recently added
     deprecated: Deprecated
   social:
+    - icon: fontawesome/solid/envelope
+      link: mailto:adhavneeraj9500@gmail.com
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/neerajadhav
     - icon: fontawesome/brands/github
-      link: https://github.com/zensical
-    - icon: fontawesome/brands/discord
-      link: https://discord.com/invite/hqXRNq9CjT
-    - icon: fontawesome/brands/python
-      link: https://pypi.org/project/zensical/
-    - icon: fontawesome/brands/bluesky
-      link: https://bsky.app/profile/zensical.org
+      link: https://github.com/neerajadhav
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/neerajadhav.in
     - icon: fontawesome/brands/mastodon
-      link: https://fosstodon.org/@zensical
-    - icon: fontawesome/brands/x-twitter
-      link: https://x.com/zensical
+      link: https://sciences.social/@neerajadhav
+    - icon: fontawesome/solid/globe
+      link: https://neerajadhav.in
   tags:
     default: default
 
