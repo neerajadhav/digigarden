@@ -4,8 +4,6 @@ tags:
   - Sorting
 ---
 
-# Quick Sort
-
 ## Problem
 Sort an array by picking an element as a "pivot" and partitioning the given array around the picked pivot.
 

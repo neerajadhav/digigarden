@@ -5,8 +5,6 @@ tags:
   - Non-Comparison-Based
 ---
 
-# Radix Sort
-
 ## Problem
 Sort an array of non-negative integers by processing individual digits. Radix sort avoids comparison by grouping keys by the individual digits which share the same significant position and value.
 

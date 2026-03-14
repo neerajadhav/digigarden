@@ -5,5 +5,5 @@ tags:
 ---
 
 
-![[umlref.jpg]]
-![[umlclass-cheatsheet.png]]
+![UML Reference](../../assets/attachments/umlref.jpg)
+![UML Class Cheatsheet](../../assets/attachments/umlclass-cheatsheet.png)

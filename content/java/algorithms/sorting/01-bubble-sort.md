@@ -4,8 +4,6 @@ tags:
   - Sorting
 ---
 
-# Bubble Sort
-
 ## Problem
 Given an unsorted array or list of elements, sort them in ascending (or descending) order by repeatedly swapping adjacent elements if they are in the wrong order.
 

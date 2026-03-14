@@ -16,7 +16,7 @@ There is a cycle in a linked list if at least one node in the list can be visite
 
 **Example 1**
 
-![[Pasted image 20260314140938.png]]
+![Cycle Detection 1](../../../../assets/attachments/Pasted%20image%2020260314140938.png)
 
 Input: 
 ```
@@ -34,7 +34,7 @@ Explanation: There is a cycle in the linked list, where the tail connects to the
 
 **Example 2**
 
-![[Pasted image 20260314140946.png]]
+![Cycle Detection 2](../../../../assets/attachments/Pasted%20image%2020260314140946.png)
 
 Input: 
 ```

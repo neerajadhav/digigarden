@@ -17,7 +17,7 @@ The new list should be made up of nodes from `list1` and `list2`.
 
 **Example 1**
 
-![[Pasted image 20260314140757.png]]
+![Merge Two Sorted Lists](../../../../assets/attachments/Pasted%20image%2020260314140757.png)
 
 Input: 
 ```

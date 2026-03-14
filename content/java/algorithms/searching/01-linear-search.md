@@ -5,8 +5,6 @@ tags:
   - Fundamentals
 ---
 
-# Linear Search
-
 ## Problem
 Given an array (or list) and a target element, find the index of the target element in the array. If the element is not present, return -1.
 

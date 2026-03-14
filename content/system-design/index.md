@@ -5,4 +5,4 @@ tags:
   - DesignPattern
 ---
 
-![[Screenshot from 2026-02-05 10-24-51.png]]
+![System Design Intro](../../assets/attachments/Screenshot%20from%202026-02-05%2010-24-51.png)

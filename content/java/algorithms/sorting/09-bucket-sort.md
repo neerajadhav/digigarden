@@ -5,8 +5,6 @@ tags:
   - Distribution-Based
 ---
 
-# Bucket Sort
-
 ## Problem
 Sort an array by distributing elements into multiple buckets. Each bucket is then sorted individually, either using a different sorting algorithm or by recursively applying bucket sort.
 

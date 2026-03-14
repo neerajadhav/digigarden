@@ -5,8 +5,6 @@ tags:
   - Square-Root-Decomposition
 ---
 
-# Jump Search
-
 ## Problem
 Search for a target element in a **sorted** array by jumping ahead by fixed steps instead of searching element by element.
 

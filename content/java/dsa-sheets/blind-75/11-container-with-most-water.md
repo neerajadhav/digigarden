@@ -16,7 +16,7 @@ You may choose any two bars to form a container. Return the **maximum amount of 
 
 **Example 1**
 
-![[Pasted image 20260314134739.png]]
+![Container With Most Water](../../../../assets/attachments/Pasted%20image%2020260314134739.png)
 
 Input: 
 ```

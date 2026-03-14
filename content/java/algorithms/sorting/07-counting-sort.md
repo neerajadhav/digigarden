@@ -5,8 +5,6 @@ tags:
   - Non-Comparison-Based
 ---
 
-# Counting Sort
-
 ## Problem
 Sort an array of elements where the values are within a specific range (e.g., 0 to k). This is a non-comparison based sorting algorithm.
 

@@ -5,8 +5,6 @@ tags:
   - Optimization
 ---
 
-# Interpolation Search
-
 ## Problem
 An optimized search for **sorted** arrays where elements are **uniformly distributed**. It estimates the position of the target element based on its value relative to the range of values in the current interval.
 

@@ -5,8 +5,6 @@ tags:
   - Divide-and-Conquer
 ---
 
-# Ternary Search
-
 ## Problem
 Search for a target element in a **sorted** array by dividing the search interval into three equal parts instead of two.
 

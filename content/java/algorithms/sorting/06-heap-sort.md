@@ -5,8 +5,6 @@ tags:
   - Heap
 ---
 
-# Heap Sort
-
 ## Problem
 Sort an array by first building a Max-Heap and then repeatedly extracting the maximum element from the heap and placing it at the end of the array.
 

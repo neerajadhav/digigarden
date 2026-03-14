@@ -4,8 +4,6 @@ tags:
   - Sorting
 ---
 
-# Merge Sort
-
 ## Problem
 Sort an array by using the Divide and Conquer strategy to recursively divide the problem into smaller sub-problems until they are simple enough to be solved directly.
 

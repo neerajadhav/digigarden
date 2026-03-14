@@ -5,8 +5,6 @@ tags:
   - Divide-and-Conquer
 ---
 
-# Binary Search
-
 ## Problem
 Search for a target element in a **sorted** array by repeatedly dividing the search interval in half.
 

@@ -4,8 +4,6 @@ tags:
   - Sorting
 ---
 
-# Insertion Sort
-
 ## Problem
 Sort an array by taking one element at a time and inserting it into its correct position among the already sorted elements.
 
