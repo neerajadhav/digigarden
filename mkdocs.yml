@@ -217,4 +217,14 @@ nav:
         - Reverse Linked List: java/dsa-sheets/blind-75/19-reverse-linked-list.md
         - Merge Two Sorted Lists: java/dsa-sheets/blind-75/20-merge-two-sorted-linked-lists.md
         - Cycle Detection: java/dsa-sheets/blind-75/21-linked-list-cycle-detection.md
+  - System Design:
+      - Overview: system-design/index.md
+      - Introduction: system-design/01-introduction.md
+      - UML Guide: system-design/02-uml-guide.md
+      - SOLID Principles: system-design/03-solid-principles.md
+      - "Case Study: Document Editor": system-design/04-case-study-document-editor.md
+  - Learner's Digest:
+      - Overview: learners-digest/index.md
+      - Feynman Technique: learners-digest/feynman-technique.md
+      - Summarize Anything: learners-digest/summarize-anything.md
 
