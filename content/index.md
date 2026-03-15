@@ -5,7 +5,7 @@ icon: lucide/home
 
 # Hello World
 
-Welcome to my digital garden! This is a fresh start for the documentation.
+Welcome to my digital garden! Here I store my personal study material across various subjects. This website is open for anyone to contribute and learn as well.
 
 ## Sections
 - **[Java](java/index.md)** - Collections of Java resources and algorithms.

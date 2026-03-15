@@ -126,8 +126,7 @@ markdown_extensions:
   - zensical.extensions.preview:
       targets:
         include:
-          - customization.md
-          - setup/extensions/*
+          - "**/*.md"
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.betterem:
