@@ -175,11 +175,11 @@ extra_javascript:
 nav:
   - Home: index.md
   - Java:
-    - Overview: java/index.md
+    - Java: java/index.md
     - Algorithms:
-      - Overview: java/algorithms/index.md
+      - Algorithms: java/algorithms/index.md
       - Arrays:
-        - Overview: java/algorithms/arrays/index.md
+        - Arrays: java/algorithms/arrays/index.md
         - Kadane's Algorithm: java/algorithms/arrays/01-kadanes-algorithm.md
         - Sliding Window: java/algorithms/arrays/02-sliding-window.md
         - Cycle Sort: java/algorithms/arrays/03-cycle-sort.md
@@ -187,7 +187,7 @@ nav:
         - Prefix Sum: java/algorithms/arrays/05-prefix-sum.md
         - Boyer-Moore Voting: java/algorithms/arrays/06-boyer-moore-voting.md
       - Strings:
-        - Overview: java/algorithms/strings/index.md
+        - Strings: java/algorithms/strings/index.md
         - String Reversal: java/algorithms/strings/01-string-reversal.md
         - Palindrome: java/algorithms/strings/02-palindrome.md
         - Rabin-Karp: java/algorithms/strings/03-rabin-karp.md
@@ -196,14 +196,14 @@ nav:
         - Anagram Checking: java/algorithms/strings/06-anagram-checking.md
         - Frequency Counting: java/algorithms/strings/07-frequency-counting.md
       - Searching:
-        - Overview: java/algorithms/searching/index.md
+        - Searching: java/algorithms/searching/index.md
         - Linear Search: java/algorithms/searching/01-linear-search.md
         - Binary Search: java/algorithms/searching/02-binary-search.md
         - Jump Search: java/algorithms/searching/03-jump-search.md
         - Interpolation Search: java/algorithms/searching/04-interpolation-search.md
         - Ternary Search: java/algorithms/searching/05-ternary-search.md
       - Sorting:
-        - Overview: java/algorithms/sorting/index.md
+        - Sorting: java/algorithms/sorting/index.md
         - Bubble Sort: java/algorithms/sorting/01-bubble-sort.md
         - Selection Sort: java/algorithms/sorting/02-selection-sort.md
         - Insertion Sort: java/algorithms/sorting/03-insertion-sort.md
@@ -215,9 +215,9 @@ nav:
         - Bucket Sort: java/algorithms/sorting/09-bucket-sort.md
         - 0-1-2 Sort: java/algorithms/sorting/10-0-1-2-sort.md
     - DSA Sheets:
-      - Overview: java/dsa-sheets/index.md
+      - DSA Sheets: java/dsa-sheets/index.md
       - Blind 75:
-        - Overview: java/dsa-sheets/blind-75/index.md
+        - Blind 75: java/dsa-sheets/blind-75/index.md
         - Arrays & Hashing:
           - Contains Duplicate: java/dsa-sheets/blind-75/01-contains-duplicate.md
           - Valid Anagrams: java/dsa-sheets/blind-75/02-valid-anagrams.md
@@ -261,13 +261,13 @@ nav:
           - Binary Tree Maximum Path Sum: java/dsa-sheets/blind-75/34-binary-tree-maximum-path-sum.md
           - Serialize and Deserialize Binary Tree: java/dsa-sheets/blind-75/35-serialize-and-deserialize-binary-tree.md
   - System Design:
-      - Overview: system-design/index.md
+      - System Design: system-design/index.md
       - Introduction: system-design/01-introduction.md
       - UML Guide: system-design/02-uml-guide.md
       - SOLID Principles: system-design/03-solid-principles.md
       - "Case Study: Document Editor": system-design/04-case-study-document-editor.md
   - Learner's Digest:
-      - Overview: learners-digest/index.md
+      - Learner's Digest: learners-digest/index.md
       - Feynman Technique: learners-digest/feynman-technique.md
       - Summarize Anything: learners-digest/summarize-anything.md
 
