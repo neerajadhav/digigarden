@@ -176,6 +176,9 @@ nav:
   - Home: index.md
   - Java:
     - Java: java/index.md
+    - Experiments:
+      - Experiments: java/experiments/index.md
+      - Input Methods: java/experiments/01-input-methods.md
     - Algorithms:
       - Algorithms: java/algorithms/index.md
       - Arrays:
