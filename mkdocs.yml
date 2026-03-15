@@ -187,6 +187,15 @@ nav:
         - Two Pointer: java/algorithms/arrays/04-two-pointer.md
         - Prefix Sum: java/algorithms/arrays/05-prefix-sum.md
         - Boyer-Moore Voting: java/algorithms/arrays/06-boyer-moore-voting.md
+      - Strings:
+        - Overview: java/algorithms/strings/index.md
+        - String Reversal: java/algorithms/strings/01-string-reversal.md
+        - Palindrome: java/algorithms/strings/02-palindrome.md
+        - Rabin-Karp: java/algorithms/strings/03-rabin-karp.md
+        - KMP Algorithm: java/algorithms/strings/04-kmp.md
+        - Z-Algorithm: java/algorithms/strings/05-z-algorithm.md
+        - Anagram Checking: java/algorithms/strings/06-anagram-checking.md
+        - Frequency Counting: java/algorithms/strings/07-frequency-counting.md
       - Searching:
         - Overview: java/algorithms/searching/index.md
         - Linear Search: java/algorithms/searching/01-linear-search.md
