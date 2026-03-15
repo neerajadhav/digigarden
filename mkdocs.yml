@@ -179,6 +179,14 @@ nav:
     - Overview: java/index.md
     - Algorithms:
       - Overview: java/algorithms/index.md
+      - Arrays:
+        - Overview: java/algorithms/arrays/index.md
+        - Kadane's Algorithm: java/algorithms/arrays/01-kadanes-algorithm.md
+        - Sliding Window: java/algorithms/arrays/02-sliding-window.md
+        - Cycle Sort: java/algorithms/arrays/03-cycle-sort.md
+        - Two Pointer: java/algorithms/arrays/04-two-pointer.md
+        - Prefix Sum: java/algorithms/arrays/05-prefix-sum.md
+        - Boyer-Moore Voting: java/algorithms/arrays/06-boyer-moore-voting.md
       - Searching:
         - Overview: java/algorithms/searching/index.md
         - Linear Search: java/algorithms/searching/01-linear-search.md
