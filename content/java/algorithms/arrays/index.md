@@ -1,6 +1,5 @@
 ---
 title: Array Algorithms
-icon: lucide/columns-3
 tags:
   - Arrays
   - Fundamentals

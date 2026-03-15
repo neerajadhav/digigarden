@@ -1,6 +1,5 @@
 ---
 title: String Algorithms
-icon: lucide/type
 tags:
   - Strings
   - Fundamentals
