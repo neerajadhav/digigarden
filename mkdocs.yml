@@ -243,6 +243,17 @@ nav:
         - Reorder Linked List: java/dsa-sheets/blind-75/22-reorder-linked-list.md
         - Remove Nth Node From End: java/dsa-sheets/blind-75/23-remove-nth-from-end.md
         - Merge K Sorted Lists: java/dsa-sheets/blind-75/24-merge-k-sorted-linked-lists.md
+        - Invert Binary Tree: java/dsa-sheets/blind-75/25-invert-binary-tree.md
+        - Maximum Depth of Binary Tree: java/dsa-sheets/blind-75/26-maximum-depth-of-binary-tree.md
+        - Same Binary Tree: java/dsa-sheets/blind-75/27-same-binary-tree.md
+        - Subtree of Another Tree: java/dsa-sheets/blind-75/28-subtree-of-another-tree.md
+        - Lowest Common Ancestor in BST: java/dsa-sheets/blind-75/29-lca-in-bst.md
+        - Binary Tree Level Order Traversal: java/dsa-sheets/blind-75/30-binary-tree-level-order-traversal.md
+        - Valid Binary Search Tree: java/dsa-sheets/blind-75/31-valid-binary-search-tree.md
+        - Kth Smallest Integer in BST: java/dsa-sheets/blind-75/32-kth-smallest-integer-in-bst.md
+        - Construct Binary Tree from Preorder and Inorder Traversal: java/dsa-sheets/blind-75/33-construct-binary-tree-from-preorder-and-inorder-traversal.md
+        - Binary Tree Maximum Path Sum: java/dsa-sheets/blind-75/34-binary-tree-maximum-path-sum.md
+        - Serialize and Deserialize Binary Tree: java/dsa-sheets/blind-75/35-serialize-and-deserialize-binary-tree.md
   - System Design:
       - Overview: system-design/index.md
       - Introduction: system-design/01-introduction.md
