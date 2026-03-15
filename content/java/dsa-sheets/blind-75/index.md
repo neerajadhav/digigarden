@@ -2,3 +2,56 @@
 title: DSA - Blind 75
 tags:
 ---
+
+# Blind 75
+
+75 essential LeetCode problems for coding interviews.
+
+### Arrays & Hashing
+- [Contains Duplicate](01-contains-duplicate.md)
+- [Valid Anagrams](02-valid-anagrams.md)
+- [Two Sum](03-two-sum.md)
+- [Group Anagrams](04-group-anagrams.md)
+- [Top K Frequent Elements](05-top-k-frequent-elements.md)
+- [Encode and Decode Strings](06-encode-and-decode-strings.md)
+- [Product of Array Except Self](07-product-of-array-except-self.md)
+- [Longest Consecutive Sequence](08-longest-consecutive-sequence.md)
+
+### Two Pointers
+- [Valid Palindrome](09-valid-palindrome.md)
+- [3Sum](10-3sum.md)
+- [Container With Most Water](11-container-with-most-water.md)
+
+### Sliding Window
+- [Best Time to Buy and Sell Stock](12-best-time-to-buy-and-sell-stock.md)
+- [Longest Substring](13-longest-substring-without-repeating-characters.md)
+- [Character Replacement](14-longest-repeating-character-replacement.md)
+- [Minimum Window Substring](15-minimum-window-substring.md)
+
+### Stack
+- [Valid Parentheses](16-valid-parentheses.md)
+
+### Binary Search
+- [Min in Rotated Sorted Array](17-find-minimum-in-rotated-sorted-array.md)
+- [Search in Rotated Sorted Array](18-search-in-rotated-sorted-array.md)
+
+### Linked List
+- [Reverse Linked List](19-reverse-linked-list.md)
+- [Merge Two Sorted Lists](20-merge-two-sorted-linked-lists.md)
+- [Linked List Cycle Detection](21-linked-list-cycle-detection.md)
+- [Reorder Linked List](22-reorder-linked-list.md)
+- [Remove Nth Node From End](23-remove-nth-from-end.md)
+- [Merge K Sorted Lists](24-merge-k-sorted-linked-lists.md)
+
+### Trees
+- [Invert Binary Tree](25-invert-binary-tree.md)
+- [Maximum Depth of Binary Tree](26-maximum-depth-of-binary-tree.md)
+- [Same Binary Tree](27-same-binary-tree.md)
+- [Subtree of Another Tree](28-subtree-of-another-tree.md)
+- [Lowest Common Ancestor in BST](29-lca-in-bst.md)
+- [Binary Tree Level Order Traversal](30-binary-tree-level-order-traversal.md)
+- [Valid Binary Search Tree](31-valid-binary-search-tree.md)
+- [Kth Smallest Integer in BST](32-kth-smallest-integer-in-bst.md)
+- [Construct Binary Tree from Preorder and Inorder Traversal](33-construct-binary-tree-from-preorder-and-inorder-traversal.md)
+- [Binary Tree Maximum Path Sum](34-binary-tree-maximum-path-sum.md)
+- [Serialize and Deserialize Binary Tree](35-serialize-and-deserialize-binary-tree.md)
