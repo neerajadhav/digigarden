@@ -239,7 +239,10 @@ nav:
         - Search in Rotated Sorted Array: java/dsa-sheets/blind-75/18-search-in-rotated-sorted-array.md
         - Reverse Linked List: java/dsa-sheets/blind-75/19-reverse-linked-list.md
         - Merge Two Sorted Lists: java/dsa-sheets/blind-75/20-merge-two-sorted-linked-lists.md
-        - Cycle Detection: java/dsa-sheets/blind-75/21-linked-list-cycle-detection.md
+        - Linked List Cycle Detection: java/dsa-sheets/blind-75/21-linked-list-cycle-detection.md
+        - Reorder Linked List: java/dsa-sheets/blind-75/22-reorder-linked-list.md
+        - Remove Nth Node From End: java/dsa-sheets/blind-75/23-remove-nth-from-end.md
+        - Merge K Sorted Lists: java/dsa-sheets/blind-75/24-merge-k-sorted-linked-lists.md
   - System Design:
       - Overview: system-design/index.md
       - Introduction: system-design/01-introduction.md
