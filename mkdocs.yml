@@ -179,6 +179,7 @@ nav:
     - Experiments :
       - Experiments: java/experiments/index.md
       - Input Methods: java/experiments/01-input-methods.md
+      - Common Input Scenarios: java/experiments/02-common-input-scenarios.md
     - Algorithms:
       - Algorithms: java/algorithms/index.md
       - Arrays:
