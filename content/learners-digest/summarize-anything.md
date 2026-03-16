@@ -1,5 +1,6 @@
 ---
 title: Summarize Anything
+icon: lucide/notepad-text
 ---
 
 ## Steps to Summarize Correctly

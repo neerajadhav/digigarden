@@ -1,5 +1,6 @@
 ---
 title: Feynman Technique
+icon: lucide/book-open-check
 ---
 
 ## Introduction

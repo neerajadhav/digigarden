@@ -173,10 +173,11 @@ extra_javascript:
 
 # Page tree
 nav:
-  - Home: index.md
+  - Home:
+    - index.md
   - Java:
     - Java: java/index.md
-    - Experiments:
+    - Experiments :
       - Experiments: java/experiments/index.md
       - Input Methods: java/experiments/01-input-methods.md
     - Algorithms:
@@ -354,4 +355,7 @@ nav:
       - Learner's Digest: learners-digest/index.md
       - Feynman Technique: learners-digest/feynman-technique.md
       - Summarize Anything: learners-digest/summarize-anything.md
+  - English:
+    - English: english/index.md
+    - Vocabulary: english/vocabulary.md
 
