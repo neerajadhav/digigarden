@@ -217,6 +217,38 @@ nav:
         - Radix Sort: java/algorithms/sorting/08-radix-sort.md
         - Bucket Sort: java/algorithms/sorting/09-bucket-sort.md
         - 0-1-2 Sort: java/algorithms/sorting/10-0-1-2-sort.md
+      - Recursion & Backtracking:
+        - Recursion & Backtracking: java/algorithms/recursion-and-backtracking/index.md
+        - Recursion Basics: java/algorithms/recursion-and-backtracking/01-recursion-basics.md
+        - Backtracking Basics: java/algorithms/recursion-and-backtracking/02-backtracking-basics.md
+        - Tower of Hanoi: java/algorithms/recursion-and-backtracking/03-tower-of-hanoi.md
+        - Generate Permutations: java/algorithms/recursion-and-backtracking/04-generate-permutations.md
+        - Subset Generation: java/algorithms/recursion-and-backtracking/05-subset-generation.md
+      - Dynamic Programming:
+        - Dynamic Programming: java/algorithms/dynamic-programming/index.md
+        - Fibonacci Sequence: java/algorithms/dynamic-programming/01-fibonacci.md
+        - Longest Common Subsequence: java/algorithms/dynamic-programming/02-longest-common-subsequence.md
+        - Longest Increasing Subsequence: java/algorithms/dynamic-programming/03-longest-increasing-subsequence.md
+        - 0/1 Knapsack: java/algorithms/dynamic-programming/04-knapsack.md
+        - Coin Change: java/algorithms/dynamic-programming/05-coin-change.md
+        - Matrix Chain Multiplication: java/algorithms/dynamic-programming/06-matrix-chain-multiplication.md
+      - Graphs:
+        - Graphs: java/algorithms/graphs/index.md
+        - BFS: java/algorithms/graphs/01-bfs.md
+        - DFS: java/algorithms/graphs/02-dfs.md
+        - Dijkstra's Algorithm: java/algorithms/graphs/03-dijkstra.md
+        - Floyd-Warshall Algorithm: java/algorithms/graphs/04-floyd-warshall.md
+        - Topological Sort: java/algorithms/graphs/05-topological-sort.md
+        - Kruskal's Algorithm: java/algorithms/graphs/06-kruskals.md
+        - Prim's Algorithm: java/algorithms/graphs/07-prims.md
+      - Number System:
+        - Number System: java/algorithms/number-system/index.md
+        - GCD: java/algorithms/number-system/01-gcd.md
+        - Sieve of Eratosthenes: java/algorithms/number-system/02-sieve-of-eratosthenes.md
+        - Pascal's Triangle: java/algorithms/number-system/03-pascals-triangle.md
+        - Prime Numbers: java/algorithms/number-system/04-prime-numbers.md
+        - Factorial: java/algorithms/number-system/05-factorial.md
+        - Fast Exponentiation: java/algorithms/number-system/06-fast-exponentiation.md
     - DSA Sheets:
       - DSA Sheets: java/dsa-sheets/index.md
       - Blind 75:
