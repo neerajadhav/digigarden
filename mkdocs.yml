@@ -263,6 +263,31 @@ nav:
           - Construct Binary Tree from Preorder and Inorder Traversal: java/dsa-sheets/blind-75/33-construct-binary-tree-from-preorder-and-inorder-traversal.md
           - Binary Tree Maximum Path Sum: java/dsa-sheets/blind-75/34-binary-tree-maximum-path-sum.md
           - Serialize and Deserialize Binary Tree: java/dsa-sheets/blind-75/35-serialize-and-deserialize-binary-tree.md
+        - Tries:
+          - Implement Trie (Prefix Tree): java/dsa-sheets/blind-75/36-implement-trie.md
+          - Design Add and Search Words Data Structure: java/dsa-sheets/blind-75/37-design-add-and-search-words-data-structure.md
+          - Word Search II: java/dsa-sheets/blind-75/38-word-search-ii.md
+        - Graphs:
+          - Number of Islands: java/dsa-sheets/blind-75/39-number-of-islands.md
+          - Clone Graph: java/dsa-sheets/blind-75/40-clone-graph.md
+          - Pacific Atlantic Water Flow: java/dsa-sheets/blind-75/41-pacific-atlantic-water-flow.md
+          - Course Schedule: java/dsa-sheets/blind-75/42-course-schedule.md
+          - Graph Valid Tree: java/dsa-sheets/blind-75/43-graph-valid-tree.md
+          - Number of Connected Components in an Undirected Graph: java/dsa-sheets/blind-75/44-number-of-connected-components-in-an-undirected-graph.md
+          - Alien Dictionary: java/dsa-sheets/blind-75/45-alien-dictionary.md
+        - Dynamic Programming:
+          - Climbing Stairs: java/dsa-sheets/blind-75/46-climbing-stairs.md
+          - House Robber: java/dsa-sheets/blind-75/47-house-robber.md
+          - House Robber II: java/dsa-sheets/blind-75/48-house-robber-ii.md
+          - Longest Palindromic Substring: java/dsa-sheets/blind-75/49-longest-palindromic-substring.md
+          - Palindromic Substrings: java/dsa-sheets/blind-75/50-palindromic-substrings.md
+          - Decode Ways: java/dsa-sheets/blind-75/51-decode-ways.md
+          - Coin Change: java/dsa-sheets/blind-75/52-coin-change.md
+          - Maximum Product Subarray: java/dsa-sheets/blind-75/53-maximum-product-subarray.md
+          - Word Break: java/dsa-sheets/blind-75/54-word-break.md
+          - Longest Increasing Subsequence: java/dsa-sheets/blind-75/55-longest-increasing-subsequence.md
+          - Unique Paths: java/dsa-sheets/blind-75/56-unique-paths.md
+          - Longest Common Subsequence: java/dsa-sheets/blind-75/57-longest-common-subsequence.md
   - System Design:
       - System Design: system-design/index.md
       - Introduction: system-design/01-introduction.md

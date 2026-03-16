@@ -55,3 +55,31 @@ tags:
 - [Construct Binary Tree from Preorder and Inorder Traversal](33-construct-binary-tree-from-preorder-and-inorder-traversal.md)
 - [Binary Tree Maximum Path Sum](34-binary-tree-maximum-path-sum.md)
 - [Serialize and Deserialize Binary Tree](35-serialize-and-deserialize-binary-tree.md)
+
+### Tries
+- [Implement Trie (Prefix Tree)](36-implement-trie.md)
+- [Design Add and Search Words Data Structure](37-design-add-and-search-words-data-structure.md)
+- [Word Search II](38-word-search-ii.md)
+
+### Graphs
+- [Number of Islands](39-number-of-islands.md)
+- [Clone Graph](40-clone-graph.md)
+- [Pacific Atlantic Water Flow](41-pacific-atlantic-water-flow.md)
+- [Course Schedule](42-course-schedule.md)
+- [Graph Valid Tree](43-graph-valid-tree.md)
+- [Number of Connected Components in an Undirected Graph](44-number-of-connected-components-in-an-undirected-graph.md)
+- [Alien Dictionary](45-alien-dictionary.md)
+
+### Dynamic Programming
+- [Climbing Stairs](46-climbing-stairs.md)
+- [House Robber](47-house-robber.md)
+- [House Robber II](48-house-robber-ii.md)
+- [Longest Palindromic Substring](49-longest-palindromic-substring.md)
+- [Palindromic Substrings](50-palindromic-substrings.md)
+- [Decode Ways](51-decode-ways.md)
+- [Coin Change](52-coin-change.md)
+- [Maximum Product Subarray](53-maximum-product-subarray.md)
+- [Word Break](54-word-break.md)
+- [Longest Increasing Subsequence](55-longest-increasing-subsequence.md)
+- [Unique Paths](56-unique-paths.md)
+- [Longest Common Subsequence](57-longest-common-subsequence.md)
