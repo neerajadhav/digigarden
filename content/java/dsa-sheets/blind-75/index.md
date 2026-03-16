@@ -83,3 +83,33 @@ tags:
 - [Longest Increasing Subsequence](55-longest-increasing-subsequence.md)
 - [Unique Paths](56-unique-paths.md)
 - [Longest Common Subsequence](57-longest-common-subsequence.md)
+
+### Greedy
+- [Maximum Subarray](58-maximum-subarray.md)
+- [Jump Game](59-jump-game.md)
+
+### Intervals
+- [Insert Interval](60-insert-interval.md)
+- [Merge Intervals](61-merge-intervals.md)
+- [Non-overlapping Intervals](62-non-overlapping-intervals.md)
+- [Meeting Rooms](63-meeting-rooms.md)
+- [Meeting Rooms II](64-meeting-rooms-ii.md)
+
+### Backtracking
+- [Combination Sum](65-combination-sum.md)
+- [Word Search](66-word-search.md)
+
+### Heap
+- [Find Median From Data Stream](67-find-median-from-data-stream.md)
+
+### Math & Geometry
+- [Rotate Image](68-rotate-image.md)
+- [Spiral Matrix](69-spiral-matrix.md)
+- [Set Matrix Zeroes](70-set-matrix-zeroes.md)
+
+### Bit Manipulation
+- [Number of 1 Bits](71-number-of-1-bits.md)
+- [Counting Bits](72-counting-bits.md)
+- [Reverse Bits](73-reverse-bits.md)
+- [Missing Number](74-missing-number.md)
+- [Sum of Two Integers](75-sum-of-two-integers.md)

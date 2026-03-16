@@ -288,6 +288,30 @@ nav:
           - Longest Increasing Subsequence: java/dsa-sheets/blind-75/55-longest-increasing-subsequence.md
           - Unique Paths: java/dsa-sheets/blind-75/56-unique-paths.md
           - Longest Common Subsequence: java/dsa-sheets/blind-75/57-longest-common-subsequence.md
+        - Greedy:
+          - Maximum Subarray: java/dsa-sheets/blind-75/58-maximum-subarray.md
+          - Jump Game: java/dsa-sheets/blind-75/59-jump-game.md
+        - Intervals:
+          - Insert Interval: java/dsa-sheets/blind-75/60-insert-interval.md
+          - Merge Intervals: java/dsa-sheets/blind-75/61-merge-intervals.md
+          - Non-overlapping Intervals: java/dsa-sheets/blind-75/62-non-overlapping-intervals.md
+          - Meeting Rooms: java/dsa-sheets/blind-75/63-meeting-rooms.md
+          - Meeting Rooms II: java/dsa-sheets/blind-75/64-meeting-rooms-ii.md
+        - Backtracking:
+          - Combination Sum: java/dsa-sheets/blind-75/65-combination-sum.md
+          - Word Search: java/dsa-sheets/blind-75/66-word-search.md
+        - Heap:
+          - Find Median From Data Stream: java/dsa-sheets/blind-75/67-find-median-from-data-stream.md
+        - Math & Geometry:
+          - Rotate Image: java/dsa-sheets/blind-75/68-rotate-image.md
+          - Spiral Matrix: java/dsa-sheets/blind-75/69-spiral-matrix.md
+          - Set Matrix Zeroes: java/dsa-sheets/blind-75/70-set-matrix-zeroes.md
+        - Bit Manipulation:
+          - Number of 1 Bits: java/dsa-sheets/blind-75/71-number-of-1-bits.md
+          - Counting Bits: java/dsa-sheets/blind-75/72-counting-bits.md
+          - Reverse Bits: java/dsa-sheets/blind-75/73-reverse-bits.md
+          - Missing Number: java/dsa-sheets/blind-75/74-missing-number.md
+          - Sum of Two Integers: java/dsa-sheets/blind-75/75-sum-of-two-integers.md
   - System Design:
       - System Design: system-design/index.md
       - Introduction: system-design/01-introduction.md
